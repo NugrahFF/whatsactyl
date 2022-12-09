@@ -2,10 +2,10 @@
 	"prefix": "!",
 	"autoread": true,
 	"mongodb": "",
-	"ownerNumber": [""],
-	"host": "https://domain.tld",
+	"ownerNumber": ["6285865462352"],
+	"host": "https://panel.faizcloud.my.id",
 	"application": {
-		"api_key": ""
+		"api_key": "ptla_amoIB7MYezr1ZxjFoVhVeq39RCEfw6BxfhBpuwepVvg"
 	},
 	"serverCreate": {
 		"nestId": "",
